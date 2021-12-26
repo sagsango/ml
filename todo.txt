@@ -1,0 +1,348 @@
+************************************************************************
+After completing this you will be able to start any project[2 year plan]
+************************************************************************
+--------------------- |       phase 00     |-------------------------
+#See/watch what other are doing
+#Add new skill and new domain in the list
+#Credentials are very important in begining
+#Take your decision, decide what you want
+#Never trust anyone in the bussiness
+#Alway be better today than yestarday
+#Take risk, You have whole universe
+#Take rest, reset and start again
+--------------------- |       phase 01     |-------------------------
+#leetcode
+                                Midium                          :Done
+                                Hard                            :Done
+                                Primium                         :____
+#Codeforces
+                                data structures                 :____
+
+                                interactive                     :____
+
+                                implementation                  :____
+                                greedy                          :____
+                                divide and conquer              :____
+                                brute force                     :____
+                                expression parsing              :____
+                                constructive algorithms         :____
+
+                                sortings                        :____
+                                binary search                   :____
+                                ternary search                  :____
+
+                                dfs and similar                 :____
+                                trees                           :____
+                                graphs                          :____
+                                dsu                             :____
+                                shortest paths                  :____
+                                flows                           :____
+                                graph matchings                 :____
+                                schedules                       :____
+
+                                strings                         :____
+                                hashing                         :____
+                                string suffix structures        :____
+
+                                math                            :____
+                                geometry                        :____
+                                games                           :____
+                                number theory                   :____
+                                matrices                        :____
+                                chinese remainder theorem       :____
+                                fft                             :____
+
+                                bitmasks                        :____
+                                dp                              :____
+                                combinatorics                   :____
+                                meet-in-the-middle              :____
+                                probabilities                   :____
+
+                                two pointers 268                :____
+
+                                2-sat                           :____
+
+                                2000                            :____
+                                2100                            :____
+                                2200                            :____
+                                2300                            :____
+                                2400                            :____
+                                2500                            :____
+
+#Atcoder
+                                String                          :____
+                                Maths                           :____
+                                Graph                           :____
+                                DP                              :____
+                                DS                              :____
+                                Game                            :____
+                                Flow                            :____
+                                Geometry                        :____
+                                Interactive                     :____
+
+#UVA Online Judges
+#Timus
+#SPOJ
+#Problem Classifier
+#Kickstart
+#CodeJam
+#FbHackercup
+#IOI
+#e-olymp
+#AIZU OJ
+#CSES
+#Codechef
+#cp.algoritham
+--------------------  |       Maths        |-------------------------
+Algebra
+Statistics
+Calculus
+Geometry
+Probability
+Discrete Math
+Mental Math
+--------------------- |       phase 02     |-------------------------
+#DBMS
+                                SQL                             :____
+                                MySQL                           :____
+                                NOSQL
+                                GraphQL by LinuxFoundationX
+                                DataBase Administration
+                                Data storage and Processing ITMOx
+--------------------- |       phase 03     |-------------------------
+#OS            https://www.udemy.com/topic/operating-system-creation/
+#Networks
+	Introduction to Networks NYUx
+	Network and Security Foundation WGUx
+#Computer Archetecture
+#Socket Programming
+#Network Programming
+#Computer Organization
+#Memory Management
+#Embedded System
+#Assembaly Language
+#Microcontroller
+#TCP/IP
+#Information System
+#System Programming
+#Computer forensics
+#Memory Management
+#Multithreading
+
+#Electronics
+#Computer Hardware
+#Instruction Set Architecture
+#Raspberry Pi
+#Tinkercad
+#Computer Repair
+#Build a computer
+#Technical Support
+#IT Support
+#Cell Phone Repair
+#Embedded System
+
+#Microservices
+--------------------- |       phase 04     |-------------------------
+#OOPs/Languages
+                                Java                            :____
+                                C                               :____
+                                C++                             :____
+                                Python                          :____
+                                Python GUI
+                                C#
+                                Objective C
+                                Go
+                                R
+                                Swift
+                                Kotlin
+                                Ruby on Rails
+                                System Programming
+                                Unified Modeling Language
+                                QT Framework
+                                
+#Linux Shell
+                                Bash                            :____
+#Functional Programming
+                                Scala                           :____
+                                Akka                            :____
+                                Play                            :____
+--------------------- |       phase 05     |-------------------------
+#Front End & Back End
+				 MERN
+                                HTML                            :____
+                                Java Script                     :____
+                                CSS                             :____
+                                PHP
+                                Bootstrap
+                                Django
+#IOS development
+#Full Stack Developemant
+#Android Developent
+#App
+#WordPress
+#Mobile Development with Swift
+#DevOOps and Site Relibility LinuxFoundationX
+
+--------------------- |       phase 05     |-------------------------
+Computing Technology Inside Your SmartPhone
+--------------------- |       Game     |-------------------------
+#Game Development
+#Introdunction to game develepment with Unity UpValenciaX
+#Game Engine
+#Game Mechanics
+#Mobile Game Development
+#Android Game Development
+#2D Game Development
+#3D Game Development
+#Unreal Enginin
+#Blender
+#Godot
+#3D animation
+#3D Modeling
+
+--------------------- |       phase 06     |-------------------------
+#Java Micro Servies
+                                Java/JEE                        :____
+                                Spring Boot                     :____
+                                Cloud Foundry                   :____
+                                Docker                          :____
+--------------------- |       phase 07     |-------------------------
+#Scripting & NO SQL
+                                RecactJS                        :____
+                                Angular JS                      :____
+                                Rest API                        :____
+                                Node.js                         :____
+                                Mongo DB                        :____
+                                Cassandra                       :____
+--------------------- |       phase 08     |-------------------------
+#Big Data/Data Science
+                                Hansoop HDFS                    :____
+                                Hive                            :____
+                                Spark                           :____
+                                Strom                           :____
+                                Kafka                           :____
+                                Spark Mlib                      :____
+                                Excel                           :____
+--------------------- |       phase 09     |-------------------------
+#ML
+#Tenser flow
+#Kaggale
+#pytourch
+#Deep Learning
+#Data Analysis
+#Data Analytics in Health
+#Big Data
+#Mining Massive DataBase StanfordOnliex
+#Visualization Data With Python
+#Data Wrangling
+#Data Science
+#Data Processing and Analysis by ITMO, Edx
+#Natural Language Processing
+#Azure ML
+#Fundamental of TinyML by HardvardX
+#Artificial Intelligence    
+#CS50's Introduction to Artificial Intelligence with Python
+#Applied AI by IBM
+#Text Analytics with python
+#Data Science and Enginnering with Spark
+#Machine Learning and Finance Edx
+https://www.coursera.org/specializations/deep-learning
+https://www.coursera.org/learn/neural-networks-deep-learning
+https://www.coursera.org/projects/tensorflow-neural-network-deep-q-learning-techniques
+-------------------- |                     |-------------------------
+Secure Software Development Fundamental by LinuxFoundationx
+
+-------------------- |                     |-------------------------
+Integrated Digital media
+-------------------- |                     |-------------------------
+#Quantum Technology:computing
+ &DelfX
+#Quantun Networking
+#Quantum Machine Learning
+#Quantum Cryptography
+--------------------- |       phase 10     |-------------------------
+#IOT
+ AWS-IOT
+ IOT-ITMO
+#Arduino
+ Arduino Progrmming Form novice to ninja IMTx
+--------------------- |       phase 11     |-------------------------
+#Cybersecurity
+#Ethical Hacking
+#Mobile Payment Security
+#Computing: Art, Magic, Science ETHx
+--------------------- |       phase 12     |-------------------------
+#BlockChain
+#Cryptography
+#Bitcoin and cryptocurrencies 
+#Cybersecurity UWasingtonX
+#Formal Softwarwe Verification
+#Cyberwar, Surveillance and Security AdelaideX
+--------------------- |       phase 13     |-------------------------
+#DevOps
+                                Puppel/Chef                     :____
+                                Docker                          :____
+                                Kubernetes/Mesos                :____
+                                Jenkins                         :____
+                                Git                             :____
+                                Jira                            :____
+                                Maven/Gradle                    :____
+--------------------- |       phase 14     |-------------------------
+#Cloud Computing
+#Intro to OpenStack
+--------------------- |       phase 15     |-------------------------
+#Embedded System
+--------------------- |       phase 16     |-------------------------
+#Autonomous System
+--------------------- |       phase 17     |-------------------------
+#Robotics
+#Robotics Programming
+#Robotics Software
+#Mechatrinics 
+#Underactuated Robotics
+ &PennX
+-------------------- |                     |-------------------------
+AI ChatBot 
+ChatBot
+Autonomus mobile Robots ETHx
+--------------------- |                    |-------------------------
+#Animation and CGI Motion
+#Virtual Reality
+--------------------- |                    |-------------------------
+#Bioinformatics
+#Helth informatics
+--------------------- |       phase 18     |-------------------------
+#Google Tech Dev
+                                Foundation of Programming       :____
+                                Advanced Programming            :____
+                                Machine Learning                :____
+                                Cloud COmputing                 :____
+--------------------  |                    |-------------------------
+#AWS Development
+#Cloud
+--------------------  |                    |-------------------------
+#English/Speaking/Presentation
+--------------------  |                    |-------------------------
+#Human Computer Ineraction
+#Computer vision Fundametal with Watson and openCV
+--------------------- |                    |-------------------------
+#MusicTechnologyFoundation
+--------------------- |       phase 05     |-------------------------
+Computer SYstem Design for Energy Eficincy
+--------------------- |       phase 19     |-------------------------
+#Business
+                      Software Tesing and Verification
+                      Automated Software Testing
+                      IT project Management
+                      Finance Fundamental             :____
+                      Project Management              :____
+                      MarketingAnalyticsProductDistribution BerkeleyX
+                      Leadership+Management for PM in IT UWasingtonX
+Internationalization:Creating Digital Content for the World UWasigton
+                                
+--------------------- |       phase 19     |-------------------------
+#Design Pattern
+#System Design
+************************************************************************
+GOAL:	Know your machine and its application properly.
+************************************************************************
